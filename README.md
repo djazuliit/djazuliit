@@ -15,10 +15,10 @@
   <a href="https://djazuli.my.id">
     <img src="https://img.shields.io/badge/🌐 Website-djazuli.my.id-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/djazuli.dev">
+  <a href="https://instagram.com/djazuli_it_app">
     <img src="https://img.shields.io/badge/Instagram-Djazuli%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@djazuli">
+  <a href="https://youtube.com/@s2IT">
     <img src="https://img.shields.io/badge/YouTube-Djazuli%20Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djazuliit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djazuliit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAMEKAMU&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=djazuliit&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,19 +61,39 @@
 ## 🐍 Contribution Snake (Auto Animation)
 
 <p align="center">
-  <img src="https://github.com/USERNAMEKAMU/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/djazuliit/djazuliit/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-* 💻 Aplikasi Kasir & Service Komputer
-* 🤖 Bot WhatsApp Automation
-* 🛒 E-Commerce PHP + AJAX
-* 📊 Dashboard Statistik Interaktif
+* 💻 **Aplikasi Kasir & Service Komputer**  
+  Sistem kasir lengkap + manajemen service, invoice, dan laporan
 
----
+* 🤖 **Bot WhatsApp Automation**  
+  Auto reply, notifikasi, dan kirim pesan massal untuk bisnis
+
+* 🛒 **E-Commerce PHP + AJAX**  
+  Toko online dinamis dengan cart, checkout, dan manajemen produk
+
+* 📊 **Dashboard Statistik Interaktif**  
+  Visualisasi data real-time dengan Chart.js + filter dinamis
+
+* 🧑‍💼 **HRIS (Human Resource Information System)**  
+  Manajemen karyawan, absensi, payroll, dan laporan HR
+
+* 🕌 **Aplikasi Islami**  
+  Jadwal sholat, Al-Qur'an digital, notifikasi adzan, dan konten islami
+
+* 💰 **Aplikasi Finance / Keuangan**  
+  Pencatatan pemasukan & pengeluaran, laporan keuangan, dan analitik
+
+* 🌐 **Website Company Profile & Landing Page**  
+  Website profesional untuk bisnis dengan SEO & desain modern
+
+* 📡 **Sistem Tagihan & Billing (WiFi / ISP / Langganan)**  
+  Kirim tagihan otomatis + integrasi WhatsApp + pembayaran online
 
 ## 💡 Quote
 
