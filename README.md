@@ -17,33 +17,74 @@
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
-```yaml
-Name      : Djazuli Dev
-Location  : Indonesia 🇮🇩
-Role      : Fullstack Developer
-Focus     : SaaS • Automation • Web Apps • System Integration
-Experience: Building scalable digital products & business systems
+<table>
+<tr>
+<td width="38%" align="center">
+
+<img src="https://raw.githubusercontent.com/djazuliit/djazuliit/main/profile.png" width="280" alt="Djazuli Dev"/>
+
+</td>
+<td width="62%">
+
+```text
+┌──────────────────────────────────────────────┐
+│              SYSTEM PROFILE                  │
+├──────────────────────────────────────────────┤
+│ STATUS      : ONLINE                         │
+│ NAME        : DJAZULI DEV                    │
+│ LOCATION    : INDONESIA 🇮🇩                  │
+│ ROLE        : FULLSTACK DEVELOPER            │
+│ SPECIALTY   : SAAS / AUTOMATION              │
+│ MODE        : BUILD • AUTOMATE • SCALE       │
+│ SECURITY    : ████████████████████ 100%      │
+└──────────────────────────────────────────────┘
 ```
 
-💻 Saya seorang **Fullstack Developer** yang fokus membangun:
+### 🟢 Fullstack Developer
 
-- 🚀 SaaS Platform
-- 🤖 Automation System
+I build **modern digital products, business systems, SaaS platforms, and automation solutions** designed to be fast, scalable, and practical.
+
+**Core Focus**
+
+- 🚀 SaaS Platforms
+- 🤖 Automation Systems
 - 🛒 E-Commerce & POS
-- 📊 Interactive Dashboard
-- 📡 Billing & Subscription System
-- 🌐 Company Profile & Landing Page
-- ⚡ Custom Web Application
+- 📊 Interactive Dashboards
+- 📡 Billing & Subscription Systems
+- 🌐 Company Profiles & Landing Pages
+- ⚡ Custom Web Applications
+- 🔗 API & System Integration
 
-Saya suka membangun sistem yang:
-- Cepat
-- Modern
-- Powerful
-- Otomatis
-- Siap dipakai bisnis
+> **Mission:** Build smart systems that reduce repetitive work, improve efficiency, and help businesses scale.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🟢 Developer Scanner
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=%5BSCANNING+PROFILE...%5D;%3E+ACCESS+GRANTED;%3E+FULLSTACK+DEVELOPER+DETECTED;%3E+SAAS+ENGINEER+ONLINE;%3E+AUTOMATION+SYSTEMS+ACTIVE;%3E+READY+TO+BUILD" />
+</p>
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  ██████╗ ██╗ █████╗ ███████╗██╗   ██╗██╗     ██╗   ║
+║  ██╔══██╗██║██╔══██╗╚══███╔╝██║   ██║██║     ██║   ║
+║  ██║  ██║██║███████║  ███╔╝ ██║   ██║██║     ██║   ║
+║  ██║  ██║██║██╔══██║ ███╔╝  ██║   ██║██║     ██║   ║
+║  ██████╔╝██║██║  ██║███████╗╚██████╔╝███████╗██║   ║
+║  ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝   ║
+╠══════════════════════════════════════════════════════╣
+║  [■■■■■■■■■■■■■■■■■■■■] 100%                     ║
+║  STATUS: ONLINE                                      ║
+║  SYSTEM: READY                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
